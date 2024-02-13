@@ -3,6 +3,7 @@
   <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
 
   <SignUpComponent/>
+  <router-view />>
 </template>
 
 <script>

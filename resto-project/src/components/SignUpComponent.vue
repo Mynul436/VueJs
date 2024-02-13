@@ -42,7 +42,7 @@ export default {
 </script>
 
 <style>
-.logo {}
+
 
 .register input {
 

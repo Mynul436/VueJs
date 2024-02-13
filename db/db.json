@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Mynul",
+      "email": "mynul@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "name": "Kanon",
+      "email": "kanon@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "3",
+      "name": "Soad",
+      "email": "soad@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "daaa",
+      "name": "sabit",
+      "email": "sabi@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "6cf2",
+      "name": "asdf",
+      "email": "asdf",
+      "password": "asdf"
+    },
+    {
+      "id": "7688",
+      "name": "rty",
+      "email": "rety",
+      "password": "ertyrey"
+    },
+    {
+      "id": "3ab2",
+      "name": "sdfg",
+      "email": "dfsg",
+      "password": "dsfg"
+    }
+  ]
+}
